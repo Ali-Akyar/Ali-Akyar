@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ali-Akyar
 - 👀 I’m interested in web development, cloud, network & security, and little bit of data science.
 - 🌱 I’m currently learning JavaScript and Python, and improving my knowledge on HTML & CSS.
+- 📌 I have some general knowledge of Java, so OOP too
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
